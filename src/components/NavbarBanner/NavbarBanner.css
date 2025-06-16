@@ -1,0 +1,33 @@
+.navbarBanner {
+  background-color: #232f3e;
+  padding: 0 0 0 6px;
+  display: flex;
+  height: 39px;
+  justify-content: space-between;
+  color: white;
+}
+.optionNavbarBanner {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+  padding: 8px 5px;
+  cursor: pointer;
+}
+.optionNavbarBanner:hover {
+  border: 1px solid;
+  border-radius: 3px;
+}
+.allOptionNavbarBanner {
+  font-size: 13px;
+  font-weight: 600;
+  padding-left: 4px;
+  font-family: inherit;
+}
+.allOptionNavbarBanner-1 {
+  font-size: 14px;
+  font-weight: 600;
+  padding-left: 4px;
+  font-family: inherit;
+  margin-right: 15px;
+}
