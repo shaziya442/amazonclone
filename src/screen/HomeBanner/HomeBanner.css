@@ -10,7 +10,7 @@
   mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
 }
 .greyBackgroundHomeBanner {
-  height: 80vh;
+  height: 60vh;
   background-color: rgb(238, 235, 235);
 }
 .homeBannerItemDiv {
@@ -18,8 +18,9 @@
   grid-template-columns: auto auto auto auto;
   gap: 20p;
   padding: 0 20px;
-  top: 22%;
+  top: 28%;
   position: absolute;
+  width: 98%;
 }
 .homeBannerItemDivCard {
   display: flex;
