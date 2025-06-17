@@ -22,7 +22,7 @@ const HomeBanner = () => {
                   return (
                     <div className="imgBannerHomeDiv">
                       <img src={it} alt="" className="imgBannerHomeDivImg" />
-                      <div className="imgBannerImgName">Refrigerators</div>
+                      <div className="imgBannerImgName">See Details</div>
                     </div>
                   );
                 })}

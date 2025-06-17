@@ -51,11 +51,15 @@
 }
 .imgBannerImgName {
   font-size: 12px;
-  font-weight: 500;
+  font-weight: 700;
+  margin-top: 6px;
+  color: rgb(3, 3, 109);
+  cursor: pointer;
 }
 .seeMoreHomeBanner {
   margin: 0 20px;
   font-size: 13px;
   font-weight: 600;
   color: #007185;
+  cursor: pointer;
 }
